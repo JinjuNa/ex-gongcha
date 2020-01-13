@@ -1,2 +1,1 @@
-# ex-gongcha
-연습용 공차
+# responsive-gong-cha
